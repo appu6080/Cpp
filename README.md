@@ -6,9 +6,9 @@
 
 ## 📘 About This Repository
 
-This repository is developed as part of my academic and self-learning journey in Computer Science.
-It contains structured C++ implementations of core Data Structures and Algorithms.
-All source code is open and available for public use.
+This repository is developed as part of my academic and self-learning journey in Computer Science.<br>
+it contains structured C++ implementations of core Data Structures and Algorithms.
+<br>All source code is open and available for public use.
 You are free to use, modify, and enhance the content.
 <br>Feel free to share suggestions or improvements.
 
