@@ -12,7 +12,7 @@ it contains structured C++ implementations of core Data Structures and Algorithm
 You are free to use, modify, and enhance the content.
 <br>Feel free to share suggestions or improvements.
 
-📩 Connect with me on insta on 👉🏽[@krishnendu6080](https://www.instagram.com/krishnendu6080)<br>[![483263643-1398900987952015-4537045482011405609-n.jpg](https://i.postimg.cc/v8thdLQ7/483263643-1398900987952015-4537045482011405609-n.jpg)](https://postimg.cc/LhhLtPgh)
+📩 Connect with me on insta Click on 👉🏽[@krishnendu6080](https://www.instagram.com/krishnendu6080)<br><br>[![483263643-1398900987952015-4537045482011405609-n.jpg](https://i.postimg.cc/v8thdLQ7/483263643-1398900987952015-4537045482011405609-n.jpg)](https://postimg.cc/LhhLtPgh)
 
 ---
 ## 🗂️ Folder Structure
