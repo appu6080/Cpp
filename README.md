@@ -15,7 +15,7 @@ You are free to use, modify, and enhance the content.
 📩 Connect with me on insta Click on 👉🏽[@krishnendu6080](https://www.instagram.com/krishnendu6080)<br><br>[![483263643-1398900987952015-4537045482011405609-n.jpg](https://i.postimg.cc/v8thdLQ7/483263643-1398900987952015-4537045482011405609-n.jpg)](https://postimg.cc/LhhLtPgh)
 
 ---
-## 🗂️ Folder Structure
+## 🗂️ Folder Structure Type
 `````
 📦DSA-CPP
  ┣ 📂Arrays
