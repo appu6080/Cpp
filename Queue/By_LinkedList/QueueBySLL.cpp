@@ -88,9 +88,9 @@ int main()
 {
     linked_list obj;
     int choice=0;
-    while (1)
+    while (true)
     {
-        cout<<"\n1.For Insert\t2.For Display\n4.For Exit";
+        cout<<"\n1.For Insert\t2.For Display\t3.Delete\n4.For Exit";
         cout<<"\nChoose a option and press Enter:-";
         cin>>choice;
         switch (choice)
@@ -116,6 +116,10 @@ int main()
             case 4:
             {
                 exit(0);
+            }
+            default: {
+                cout<<"Wrong Choice Entered....";
+                break;
             }
         }
     }
