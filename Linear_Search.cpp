@@ -97,6 +97,31 @@ public:
             }
         }
     }
+
+    void bin_Search() {
+        bool flag=false;
+        int key=obj.AddItem();
+        int low=0,mid;
+        int high=obj.sizeof_arr()-1;
+        while (low<=high) {
+            mid=low+(high-low)/2;
+            if (obj.A[mid]==key) {
+                flag=true;
+                break;
+            }
+            if (obj.A[mid]>key) {
+                high=mid-1;
+            }
+            else {
+                low=mid+1;
+            }
+        }
+        if (!flag) {
+            cout<<"Item Not Found..";
+        }else {
+            cout<<"\nThe Index is "<<mid;
+        }
+    }
 };
 
 int main (){
